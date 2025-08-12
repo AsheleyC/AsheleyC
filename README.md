@@ -15,6 +15,8 @@ Gosto mesmo é de colocar a mão na massa: `criar, errar, aprender e ver as cois
 Quero oportunidades para continuar aprendendo e contribuir de verdade em projetos que façam a diferença. Curto ambientes colaborativos, onde todo mundo cresce junto — e quanto mais desafiador, melhor!
 
 ## 💻 Um pouco do que eu já aprendi:
+***No meu curso Técnico em Desenvolvimento de Sistemas – Escola Senai Santo Paschoal (2025 - 2026) estou aprendendo e já aprendi varíos conteúdos;***
+
 * Lógica de programação
 * Sistemas Operacionais
 * Arquitetura de Redes com IoT
