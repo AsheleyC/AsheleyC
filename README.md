@@ -1,64 +1,44 @@
-# 👩‍💻Perfil Profissional- Asheley Tombolo
+# 👩‍💻 Asheley Tombolo
+*Estudante de Desenvolvimento de Sistemas | Exploradora de códigos e ideias*
 
-## 🙋🏼‍♀️ Dados pessoais
-* **Nome completo:** `Asheley Cristiny Gomes Tombolo`
-* **Cidade e Estado:** `Presidente Prudente - SP`
-* **Idade:** `16 anos`
-* **Github:** https://github.com/AsheleyC
+Olá👋! Eu sou a Asheley, tenho 16 anos e sou de Presidente Prudente-SP. 
 
 
 ## 😉 Sobre mim
-* Apaixonada por tecnologia e pelo aprendizado contínuo, atualmente estou me aprofundando em Linguagens de Marcação, Banco de Dados e Desenvolvimento Back-End.
-* No meu percurso acadêmico, estou explorando bastante HTML, JavaScript e Python (exploração já concluída), com ênfase em back-end, mas também adoro colaborar em projetos de front-end.
-* Busco sempre aplicar meus conhecimentos de forma prática, em projetos reais, e me adaptar às novas tecnologias com rapidez.
+* Desde que me entendo por gente, sou apaixonada por tecnologia, curiosa sobre como as coisas funcionam e movida por um desejo constante de aprender algo novo.
 
-## 🔐 Objetivo
-* Busco oportunidades para expandir meus conhecimentos em programação. Quero contribuir para soluções tecnológicas inovadoras, aprendendo com desafios reais e crescendo profissionalmente em ambientes colaborativos
+Atualmente, estou mergulhando no universo do Desenvolvimento de Sistemas, com um foco especial no Back-End. Já me aventurei por linguagens como HTML, JavaScript e Python, e sigo explorando Banco de Dados, Node.js e muito mais.
 
-## 📚 Matérias
-* Lógica de Programação **(Concluída)**
-* Arquitetura de Redes com IOT **(Concluída)**
-* Sistemas Operacionais **(Concluída)**
-* Levantamento de Requisitos **(Concluída)**
-* Banco de Dados **(Em progresso)**
-* Linguagem de Marcação **(Em progresso)**
-* Programação BackEnd **(Em progresso)**
+Gosto mesmo é de colocar a mão na massa: `criar, errar, aprender e ver as coisas funcionando. Projetos reais são meu combustível. A cada desafio, uma nova chance de crescer.`
 
-## 📝 Cursos com Certificados
+## 🎯 O que eu busco?
+Quero oportunidades para continuar aprendendo e contribuir de verdade em projetos que façam a diferença. Curto ambientes colaborativos, onde todo mundo cresce junto — e quanto mais desafiador, melhor!
+
+## 💻 Um pouco do que eu já aprendi:
+* Lógica de programação
+* Sistemas Operacionais
+* Arquitetura de Redes com IoT
+* Levantamento de Requisitos
+* HTML, JavaScript, Python, Node.js
+
+`E estou estudando Banco de Dados e Linguagens de Marcação agora`
+
+## 📜 Cursos que já concluí e tenho Certificados
+* Fundamentos do Python
 * Ética na Inteligência Artificial
-* Excel Básico
-* Fluência - Fundamentos da Inteligência Artificial
-* Fundamento do Python 1
-* Implantação de Serviços em Nuvem - Microsoft AZ900
+* Fundamentos da IA (Fluência)
+* Implantação de Serviços em Nuvem (AZ-900)
+* Excel Básico (porque planilha também é poder!)
 
-## 🔊 Idiomas
-* Português: Nativo
-* Inglês: Básico 
+## 🌍 Idiomas
+* Português: `Fluente`
+* Inglês: `Nível básico, mas aprendendo firme!`
 
-## 🎓 Formação Acadêmica
-* Curso Técnico em Desenvolvimento de Sistemas – Escola Senai Santo Paschoal (2025 - 2026)
+## 🎨 Fora das telas…
+Quando não estou fazendo códigos, estou montando cubo mágico🎲 (sim, rapidinho 👀), cantando🎤 (Faço aulas), treinando judô 🥋, pintando🎨 ou ouvindo música🎧. 
 
-## 🌐 Habilidades Técnicas
-* JavaScript: `Criação de variáveis, funções, estruturas de controle (if, while, for) e manipulação de dados (concatenar, arrays).`
-* Python: `Algoritmos, manipulação de dados, sistemas interativos`
-* HTML: `Estruturação de páginas web e estilização de layouts.`
-* Node.js: `Desenvolvimento Back-End utilizando JavaScript.`
+`Gosto de coisas que me desafiem ou me acalmem — depende do dia!`
 
+## ✨ Um pouco sobre mim
+Sou organizada, detalhista e sempre tento ir além. Mas, como qualquer pessoa, também tenho meus `pontos pra melhorar:` às vezes fico nervosa sob pressão, ou levo críticas muito pro lado pessoal. E trabalhar em grupo🤝 ? Ainda tô pegando o jeito, mas cada experiência ajuda.
 
-## 🥋 Passatempos
-* Montar Cubo-Mágico 🎲
-* Escutar Música 🎧
-* Cantar (Aulas de Canto) 🎤
-* Treinar (Judô) 🥋
-* Pintar 🎨
-
-## 🥇 Qualidades
-* Foco em resultados e soluções práticas
-* Organização dos trabalhos
-* Atenção aos detalhes, garantindo qualidade no trabalho
-* Vontade constante de aprender e evoluir
-
-## 📌 Pontos para melhorar
-* Nervosismo em situações sobre pressão
-* Lidar melhor com críticas construtivas sem levar para o lado pessoal
-* Dificuldade para lidar com trabalhos em grupo
