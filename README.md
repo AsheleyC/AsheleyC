@@ -30,14 +30,10 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 * Ética na Inteligência Artificial
 * Fundamentos da IA (Fluência)
 * Implantação de Serviços em Nuvem (AZ-900)
-* Excel Básico (porque planilha também é poder!)
-
-## 🌍 Idiomas
-* Português: `Fluente`
-* Inglês: `Nível básico, mas aprendendo firme!`
+* Excel Básico
 
 ## 🎨 Fora das telas…
-Quando não estou fazendo códigos, estou montando cubo mágico🎲 (sim, rapidinho 👀), cantando🎤 (Faço aulas), treinando judô 🥋, pintando🎨 ou ouvindo música🎧. 
+Quando não estou fazendo códigos, estou montando cubo mágico🎲 (sim, rapidinho 👀), cantando🎤 (Faço aulas), pintando🎨 ou ouvindo música🎧. 
 
 `Gosto de coisas que me desafiem ou me acalmem — depende do dia!`
 
