@@ -28,10 +28,9 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 <a href = "PetConecta.pdf">
 <img src = "imagem1.png" width = 200>
 </a>
-
-![tela goumetfy](/Gourmetify.pdf)
-
-![tela PetConecta](/PetConecta%20(1).pdf)
+<a href = "Gourmetfy.pdf">
+<img src = "img2.png" width = 200>
+</a>
 
 
 ## 📜 Cursos que já concluí e tenho Certificados
