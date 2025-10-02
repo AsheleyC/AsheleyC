@@ -23,6 +23,11 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 
 `E estou estudando Banco de Dados, Linguagen de Marcação e Programação em Back-end agora`
 
+## Trabalhos Contextos Empresas
+![tela goumetfy](/Gourmetify.pdf)
+![tela PetConecta](/PetConecta%20(1).pdf)
+
+
 ## 📜 Cursos que já concluí e tenho Certificados
 * Fundamentos do Python
 * Ética na Inteligência Artificial
