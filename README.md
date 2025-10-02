@@ -25,8 +25,8 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 
 ## Trabalhos Contextos Empresas
 
-<a hfref = "PetConecta.pdf">
-    <img src = "imagem1.png">
+<a href = "PetConecta.pdf">
+<img src = "imagem1.png" width = 200>
 </a>
 
 ![tela goumetfy](/Gourmetify.pdf)
