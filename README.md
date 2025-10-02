@@ -24,7 +24,13 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 `E estou estudando Banco de Dados, Linguagen de Marcação e Programação em Back-end agora`
 
 ## Trabalhos Contextos Empresas
+
+<a hfref = "PetConecta (1).pdf">
+    <img src = "imagem1.png">
+</a>
+
 ![tela goumetfy](/Gourmetify.pdf)
+
 ![tela PetConecta](/PetConecta%20(1).pdf)
 
 
