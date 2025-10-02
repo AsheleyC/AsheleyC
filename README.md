@@ -28,7 +28,7 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 <a href = "PetConecta.pdf">
 <img src = "imagem1.png" width = 200>
 </a>
-<a href = "Gourmetfy.pdf">
+<a href = "Gourmetify.pdf">
 <img src = "img2.png" width = 200>
 </a>
 
