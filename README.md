@@ -19,18 +19,10 @@ Quero oportunidades para continuar aprendendo e contribuir de verdade em projeto
 * Sistemas Operacionais ✅
 * Arquitetura de Redes com IoT ✅
 * Levantamento de Requisitos ✅
-* HTML, JavaScript, Python, Node.js
+* HTML, JavaScript, Node.js
 
 `E estou estudando Banco de Dados, Linguagen de Marcação e Programação em Back-end agora`
 
-## Trabalhos Contextos Empresas
-
-<a href = "PetConecta.pdf">
-<img src = "imagem1.png" width = 200>
-</a>
-<a href = "Gourmetify.pdf">
-<img src = "img2.png" width = 200>
-</a>
 
 
 ## 📜 Cursos que já concluí e tenho Certificados
