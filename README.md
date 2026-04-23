@@ -1,7 +1,7 @@
 # 👩‍💻 Asheley Tombolo
 *Estudante de Desenvolvimento de Sistemas*
 
-Olá👋! Eu sou a Asheley Cristiny Gomes Tombolo, tenho 16 anos e sou de Presidente Prudente-SP. 
+Olá👋! Eu sou a Asheley Cristiny Gomes Tombolo, tenho 17 anos e sou de Presidente Prudente-SP. 
 
 
 ## 😉 Sobre mim
