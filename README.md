@@ -1,42 +1,73 @@
-# 👩‍💻 Asheley Tombolo
-*Estudante de Desenvolvimento de Sistemas*
 
-Olá👋! Eu sou a Asheley Cristiny Gomes Tombolo, tenho 17 anos e sou de Presidente Prudente-SP. 
+# Asheley Tombolo
 
+**Desenvolvedora Full Stack em Formação | Desenvolvimento Web e Mobile**
 
-## 😉 Sobre mim
-* Desde que me entendo por gente, sou apaixonada por tecnologia, curiosa sobre como as coisas funcionam e movida por um desejo constante de aprender coisas novas.
+Sou desenvolvedora de software em formação, com experiência prática na criação de aplicações web e mobile.
 
-Atualmente, estou explorandp o universo do Desenvolvimento de Sistemas, com um foco especial no Back-End. Já me aventurei por linguagens como HTML, JavaScript e Python, e sigo explorando Banco de Dados, Node.js e muito mais.
+Tenho interesse em desenvolvimento de software, integração de sistemas e construção de soluções digitais que priorizem funcionalidade, organização e experiência do usuário.
 
-## 🎯 O que eu busco?
-Quero oportunidades para continuar aprendendo e contribuir de verdade em projetos que façam a diferença.
+Atualmente, concentro meus estudos e projetos no ecossistema JavaScript, atuando no desenvolvimento de interfaces, APIs e bancos de dados.
 
-## 💻 Um pouco do que eu já aprendi:
-***No meu curso Técnico em Desenvolvimento de Sistemas – Escola Senai Santo Paschoal (2025 - 2026) estou aprendendo e já aprendi varíos conteúdos;***
+## Tecnologias e Ferramentas
 
-* Lógica de programação ✅
-* Sistemas Operacionais ✅
-* Arquitetura de Redes com IoT ✅
-* Levantamento de Requisitos ✅
-* HTML, JavaScript, Node.js
+**Desenvolvimento Frontend**
+- JavaScript
+- React Native
+- Expo
+- HTML5 e CSS3
 
-`E estou estudando Banco de Dados, Linguagen de Marcação e Programação em Back-end agora`
+**Desenvolvimento Backend**
+- Node.js
+- Express.js
+- APIs REST
 
+**Banco de Dados**
+- MySQL
+- SQL
 
+**Ferramentas**
+- Git
+- GitHub
+- Visual Studio Code
 
-## 📜 Cursos que já concluí e tenho Certificados
-* Fundamentos do Python
-* Ética na Inteligência Artificial
-* Fundamentos da IA (Fluência)
-* Implantação de Serviços em Nuvem (AZ-900)
-* Excel Básico
+## Projetos em Destaque
 
-## 🎨 Fora das telas…
-Quando não estou fazendo códigos, estou montando cubos mágicos🎲, cantando🎤 (Faço aulas), pintando🎨, modelando em 3D (pelo Fusion360) ou ouvindo música🎧. 
+### Crownly
+**Aplicativo de Gerenciamento de Leituras**
 
-`Gosto de coisas que me desafiem ou me acalmem — depende do dia!`
+Projeto pessoal de desenvolvimento mobile, voltado à organização de bibliotecas e ao acompanhamento de leituras.
 
-## ✨ Um pouco sobre mim
-Sou organizada, detalhista, dedicada e sempre tento ir além. Mas, como qualquer pessoa, também tenho meus `pontos pra melhorar:` às vezes fico nervosa sob pressão, ou levo críticas muito pro lado pessoal. E trabalhar em grupo🤝 ? Ainda tô pegando o jeito, mas cada experiência ajuda.
+Principais funcionalidades:
+- Gerenciamento de livros e prateleiras
+- Catálogo e pesquisa de livros
+- Acompanhamento do progresso de leitura
+- Metas e sessões de leitura
+- Personalização da biblioteca
 
+**Tecnologias:** React Native, Expo, JavaScript, Node.js, Express e MySQL.
+
+### AgendaVest
+**Aplicativo de Organização de Vestibulares**
+
+Projeto acadêmico desenvolvido para centralizar e organizar informações relacionadas a vestibulares, inscrições e provas.
+
+Principais funcionalidades:
+- Consulta de vestibulares
+- Organização de informações acadêmicas
+- Consulta de provas anteriores
+- Integração com backend e banco de dados
+
+**Tecnologias:** React Native, Expo, JavaScript, Node.js, Express e MySQL.
+
+## Objetivos Profissionais
+
+Busco aprimorar continuamente minhas habilidades técnicas, aprofundar meus conhecimentos em desenvolvimento Full Stack e participar de projetos que proporcionem aprendizado e experiência prática.
+
+Tenho interesse em oportunidades de estágio, aprendizagem e desenvolvimento de software.
+
+## Contato
+
+**LinkedIn:** [Asheley Tombolo](https://www.linkedin.com/in/asheley-tombolo-4ab03b343/)
+
+**Portfólio:** Em desenvolvimento
